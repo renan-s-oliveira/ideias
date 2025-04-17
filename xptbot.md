@@ -129,6 +129,6 @@ Missões diárias/semanais
 
 Badges por milestones
 
-Integração com sistema da empresa (p/ recompensas reais)
+Integração com sistema da empresa (p/ recompensas mais legais)
 
 Dashboard web com estatísticas e personalização
